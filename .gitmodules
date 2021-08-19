@@ -1,0 +1,3 @@
+[submodule "sub-chd"]
+	path = sub-chd
+	url = https://github.com/FjieYi/sub-chd
